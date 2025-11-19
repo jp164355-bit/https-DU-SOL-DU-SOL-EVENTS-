@@ -117,7 +117,7 @@
   <form id="loginForm" style="display:none;" autocomplete="off">
     <label>Role: <input type="text" id="roleField" readonly /></label>
     <label>College ID: <input type="text" id="collegeIdField" required pattern="SOL[0-9]{8}" placeholder="SOL20251234" /></label>
-    <label>Password: <input type="password" required /></label>
+    <label>BAR-CODE: <input type="password" required /></label>
     <button class="submit-btn" type="submit">Login</button>
   </form>
 </section>
@@ -167,6 +167,8 @@
   <form id="eventForm">
     <label>Event Name</label>
     <input type="text" id="eventName" required />
+        <label for="emailAddress">Email *</label>
+    <input type="email" id="emailAddress" required />
 
     <label>Date</label>
     <input type="date" id="eventDate" required />
