@@ -12,7 +12,6 @@
   nav { margin:18px 0; text-align:center; }
   .login-btn { background:#2d78d1; color:#fff; font-size:1.15em; padding:11px 28px; border-radius:9px; text-decoration:none; transition:background .3s; cursor:pointer; border:none; }
   .login-btn:hover { background:#fdc801; color:#143058; }
-  #login-section { background:#fff; max-width:340px; margin:32px auto 18px; box-shadow:0 2px 18px #14305810; border-radius:15px; text-align:center; padding:25px 16px;}
   .login-choice { display:flex; gap:20px; justify-content:center; margin-bottom:20px; }
   .role-btn { width:74px; height:74px; background:#2d78d1; color:#fff; font-size:1.08em; border-radius:50%; border:none; cursor:pointer; transition:background .3s,transform .2s; }
   .role-btn:hover { background:#fdc801; color:#143058; transform:scale(1.09); }
