@@ -597,7 +597,7 @@
   // Initialize
   fixedLogoutBtn.style.display = 'none';
 </script>
-<footer style="text-align: center; padding: clamp(2rem, 8vw, 3rem) 0; color: var(--text-light); background: var(--white); margin-top: clamp(2rem, 8vw, 4rem); box-shadow: 0 -4px 16px rgba(0,0,0,0.05);">
+<footer style="text-align:; padding: clamp(2rem, 8vw, 3rem) 0; color: var(--text-light); background: var(--white); margin-top: clamp(2rem, 8vw, 4rem); box-shadow: 0 -4px 16px rgba(0,0,0,0.05);">
   <div class="container">
     © 2025 Delhi University SOL | 
     <a href="#" style="color: var(--secondary); text-decoration: none; margin: 0 0.5rem;">Privacy</a> | 
