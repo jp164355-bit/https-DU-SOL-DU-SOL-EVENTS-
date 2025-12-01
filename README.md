@@ -598,7 +598,7 @@
   fixedLogoutBtn.style.display = 'none';
 </script>
 <footer
-  <div class="container">
+  <div>
     © 2025 Delhi University SOL | 
     <a href="#" style="color: var(--secondary); text-decoration: none; margin: 0 0.5rem;">Privacy</a> | 
     <a href="#" style="color: var(--secondary); text-decoration: none;">Terms</a>
