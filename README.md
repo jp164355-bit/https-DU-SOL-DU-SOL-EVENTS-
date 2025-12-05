@@ -120,7 +120,7 @@
   <img src="https://github.com/user-attachments/assets/4abc5761-14fa-4dca-8d36-c7ef8118590a" class="logo" alt="DU SOL Logo" />
   <h1> University of Delhi School of Open Learning</h1>
   <p class="hero-subtitle">Event Management Portal</p>
-  <img src="https://github.com/user-attachments/assets/be0e5e85-36f3-4dd1-b6c8-6343f422e673" class="hero-img" alt="DU SOL Campus" />
+  <img src="https://github.com/user-attachments/assets/534a56bf-7ef5-4996-8784-a7b1bf52f1de" class="hero-img" alt="DU SOL Campus" />
 </header>
 
 <!-- LOGIN PAGE -->
