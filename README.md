@@ -117,7 +117,7 @@
 <body>
 
  <header>
-  <img src="img width="360" height="360" alt="Image" src="https://github.com/user-attachments/assets/3155a760-af9b-4b49-98db-81c1d2ccf587" class="logo" alt="DU SOL Logo" />
+  <img src="https://github.com/user-attachments/assets/3155a760-af9b-4b49-98db-81c1d2ccf587" class="logo" alt="DU SOL Logo" />
   <h1> University of Delhi School of Open Learning</h1>
   <p class="hero-subtitle">Event Management Portal</p>
   <img src="https://github.com/user-attachments/assets/534a56bf-7ef5-4996-8784-a7b1bf52f1de" class="hero-img" alt="DU SOL Campus" />
